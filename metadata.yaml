@@ -7,6 +7,9 @@ contributor:
     deathdate: 1971
     gutenberg_agent_id: '25565'
     url: http://www.gutenberg.org/2009/agents/25565
+covers:
+- cover_type: archival
+  image_path: 69395-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Wiggin, Kate Douglas Smith
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/266
     wikipedia: https://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69395#The-quilt-of-happiness-Creeping-Jenny-and-other-New-England-stories
 gutenberg_issued: '2022-11-20'
 identifiers:
   gutenberg: '69395'
